@@ -1,0 +1,28 @@
+{
+  "name": "nodebb-plugin-thad-test",
+  "version": "0.2.3",
+  "description": "nodebb-plugin-thadeuszlay-test",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thadeuszlay/nodebb-plugin-thad-test"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "test",
+    "shell"
+  ],
+  "author": {
+    "name": "thadeuszlay",
+    "email": "thadeuszlay@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thadeuszlay/nodebb-plugin-thade-test/issues"
+  },
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  }
+}
