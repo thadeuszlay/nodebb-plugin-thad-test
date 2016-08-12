@@ -9,11 +9,11 @@ Once you're done don't forget to publish it on NPM, and make a thread about it [
 
 ## Hello World
 
-Really simple, just edit `static/lib/main.js` and paste in `console.log('hello world');`, and that's it!
+It will do some random stuff. As of time of writing, I don't even know myself what exactly. Really simple, just edit `static/lib/main.js` and paste in `console.log('hello world');`, and that's it!
 
 ## Installation
 
-    npm install nodebb-plugin-quickstart
+    npm install nodebb-plugin-thad-test
 
 ## Screenshots
 
