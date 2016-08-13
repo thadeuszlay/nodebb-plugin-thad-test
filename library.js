@@ -20,7 +20,7 @@ plugin.addAdminNavigation = function(header, callback) {
 	header.plugins.push({
 		route: '/plugins/thadTest',
 		icon: 'fa-tint',
-		name: 'Quickstart'
+		name: 'Thad Test'
 	});
 
 	callback(null, header);
