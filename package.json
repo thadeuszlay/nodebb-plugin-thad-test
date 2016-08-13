@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-thad-test",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "nodebb-plugin-thadeuszlay-test",
   "main": "library.js",
   "repository": {
